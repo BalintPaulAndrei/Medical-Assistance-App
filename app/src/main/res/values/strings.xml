@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sanitas</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="title_activity_hospitals">HospitalsActivity</string>
+    <string name="success_label">Ambulance scheduled!</string>
+    <string name="error_label">Error, try again!</string>
+    <string name="success_label1">Appointment scheduled</string>
+    <string name="google_map_key">AIzaSyAyREK0QL_jZZb7KT2iMCA8pUb_7NuGMos</string>
+</resources>
